@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InClass04</string>
+    <string name="bt_label">Generate Number Async Task</string>
+    <string name="bt_label2">Generate Number Thread</string>
+    <string name="minimumLabel">Minimum:</string>
+    <string name="maximumLabel">Maximum</string>
+    <string name="averageLabel">Average</string>
+    <string name="selectedLabel">Select Complexity:</string>
+</resources>
